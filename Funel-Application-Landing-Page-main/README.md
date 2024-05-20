@@ -63,4 +63,4 @@ Thank you to the HTML5, CSS3, JavaScript And Figma communities for providing exc
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Amit Ashok Swain](mailto:amansinghajay222@gmail.com).
