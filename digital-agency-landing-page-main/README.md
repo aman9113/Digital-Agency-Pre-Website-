@@ -1,4 +1,4 @@
-# Digital Marketing Landing Page
+# Digital_Marketing_Landing_Page
 
 Welcome to the repository for our latest project – a Digital Marketing Landing Page built with HTML and CSS.
 
