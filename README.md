@@ -1,1 +1,1 @@
-Both the file is a code of Digital Markrting Agency
+Digital Markrting Agency
